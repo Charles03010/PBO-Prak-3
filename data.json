@@ -1,0 +1,26 @@
+[
+    {
+        "nama": "Charles",
+        "roti": "Pastry",
+        "rasa": "Coklat",
+        "topping": "Keju",
+        "jumlah": "1",
+        "pembayaran": false
+    },
+    {
+        "nama": "Veranda",
+        "roti": "Pastry",
+        "rasa": "Coklat",
+        "topping": "Keju",
+        "jumlah": "1",
+        "pembayaran": true
+    },
+    {
+        "nama": "p inpo",
+        "roti": "Pastry",
+        "rasa": "Coklat",
+        "topping": "Kacang",
+        "jumlah": "9",
+        "pembayaran": false
+    }
+]
